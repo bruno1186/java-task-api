@@ -76,3 +76,8 @@ Cobertura de dominio (`TaskServiceTest`) e integracao HTTP end-to-end (`TaskHttp
 ## Licenca
 
 MIT
+
+
+## Sobre a publicacao
+
+Este projeto foi construido e publicado como referencia de arquitetura para a comunidade, refletindo padroes e decisoes tecnicas aplicados na pratica profissional (sem reproduzir codigo ou dados de projetos proprietarios).
